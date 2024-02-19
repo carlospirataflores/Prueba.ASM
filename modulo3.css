@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  height: 100vh;
+  background-image: url('one_pice.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.content-container {
+  padding: 20px;
+  color: white;
+}
+
+button {
+  display: block;
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
